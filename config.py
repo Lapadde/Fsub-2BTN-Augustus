@@ -57,11 +57,11 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 
 
-USER_REPLY_TEXT = "❌Don't Send Me Messages Directly I'm Only File Share Bot !"
+USER_REPLY_TEXT = "⚠️Peringatan⚠️\n\nJangan Mengirimkan Pesan Kepada Bot Karna Bot ini tidak akan merespon anda, Jika Anda pertanyaan silahkan pc admin\n @estelerkuu"
 
-START_MSG = os.environ.get("START_MESSAGE", "Hello {mention}\n\nI Can Store Private Files In Specified Channel And Other Users Can Access It From Special Link.")
+START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nSaya dapat menyimpan file dan user dapat mengaksesnya dari link khusus, Join VIP \n@estelerkuu")
 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {mention}\n\n<b>You Need To Join In My Channel/Group To Use Me\n\nKindly Please Join Channel</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>Halo {first}\nSilahkan Baca Dulu Cara Penggunaan Bot Ini\n\n[ TUTOR BOT ]\nSilahkan Pencet Tombol Join Yang diminta Oleh BOT pada bagian bawah Terlebih Dahulu. Jika Kamu Sudah Join Pencet Tombol Coba Lagi lalu start.\n\nJika tidak ingin ribet JOIN VIP, cek harganya di bawah :\nVIP LIST INDOVIRAL :\n✣ VIP LOKAL NUSANTARA ┈➤ Rp. 40.000\n✣ VIP ONLYFANS ┈➤ Rp. 25.000\n✣ VIP BOCIL PREMIUM ┈➤ Rp. 50.000\n✣ VIP BOCIL SUPER PREMIUM ┈➤ Rp. 100.000\n✣ VIP HIJAB ┈➤ Rp. 35.000\n✣ TAKE ALL VIP ( JOIN SEMUA VIP BONUS VIP JAV ) ┈➤ Rp. 150.000\nBebas nonton tanpa ribet menggunakan Link/Iklan, Sekali bayar PERMANENT.\nLangsung akses ribuan video terbaru dan terupdate, Video akan diperbaharui setiap harinya\nMinat? Hubungi admin\n@estelerkuu</b>")
 
 
 
